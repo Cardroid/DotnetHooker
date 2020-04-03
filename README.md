@@ -8,7 +8,7 @@ C# Hooker, DotnetHooker, 닷넷후킹라이브러리<br/>
 WinAPI로 전역 키보드, 마우스 후킹 예제
 
 ## 더 이상 업데이트는 안 되지만, 마음대로 쓰세요!
- * 마우스는 테스트 안해봤습니다.
+ 마우스 후킹 테스트 안해봤습니다.
 
 ### 사용한 라이브러리
 빌드 통합용: Costura.Fody https://www.nuget.org/packages/Costura.Fody/4.1.0
